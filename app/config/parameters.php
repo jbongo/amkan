@@ -1,0 +1,25 @@
+<?php return array (
+  'parameters' => 
+  array (
+    'database_host' => 'db5013346726.hosting-data.io',
+    'database_port' => '',
+    'database_name' => 'dbs11191151',
+    'database_user' => 'dbu5592344',
+    'database_password' => 'Amekan@01',
+    'database_prefix' => 'amk_',
+    'database_engine' => 'InnoDB',
+    'mailer_transport' => 'smtp',
+    'mailer_host' => '127.0.0.1',
+    'mailer_user' => NULL,
+    'mailer_password' => NULL,
+    'secret' => 'yaTsROKTvwERwFTDLjmp3TXQgvJm0LftBs6pf5p2ICgAvRBOwpaM2yVv',
+    'ps_caching' => 'CacheMemcache',
+    'ps_cache_enable' => false,
+    'ps_creation_date' => '2023-06-11',
+    'locale' => 'en-US',
+    'use_debug_toolbar' => true,
+    'cookie_key' => 'wBvtLmRBI3nJHAnwEWWeR7u2F06vuy1ohmHEd0Q8R6NqsqlRHlmg9mFm',
+    'cookie_iv' => 'B3LhG21w',
+    'new_cookie_key' => 'def00000fd6e2a7063882e63778e0dccf01d45434dcb68d09d24712dbcc24f6080867fbc2f8d2cfcd661e873bd89568ab5b120e80cc8f7d6b0c64fe27bf8576e7a8b4100',
+  ),
+);
